@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.118ab7e6.css",
-    "main.js": "./static/js/main.a8870271.js",
+    "main.js": "./static/js/main.2533c09d.js",
     "static/media/poster.jpg": "./static/media/poster.cf6691e6dd0153d7da6c.jpg",
     "static/media/buy-land.jpg": "./static/media/buy-land.88e8061363401883ed8f.jpg",
     "static/media/sell-land.webp": "./static/media/sell-land.6d8a2bb11c08adf97a8a.webp",
@@ -11,10 +11,10 @@
     "static/media/buy-home.webp": "./static/media/buy-home.1cc954f09a17d86b9b30.webp",
     "index.html": "./index.html",
     "main.118ab7e6.css.map": "./static/css/main.118ab7e6.css.map",
-    "main.a8870271.js.map": "./static/js/main.a8870271.js.map"
+    "main.2533c09d.js.map": "./static/js/main.2533c09d.js.map"
   },
   "entrypoints": [
     "static/css/main.118ab7e6.css",
-    "static/js/main.a8870271.js"
+    "static/js/main.2533c09d.js"
   ]
 }
